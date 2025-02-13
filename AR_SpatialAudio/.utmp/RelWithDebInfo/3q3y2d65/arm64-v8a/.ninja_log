@@ -1,0 +1,21 @@
+# ninja log v5
+89	754	7611177542410278	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2925a5d738621553
+19	3566	7611177570389437	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f53e78f80ac19eed
+755	1743	7611177550912936	C:/Users/Deadb/Downloads/AR_SpatialAudio/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3q3y2d65/obj/arm64-v8a/libswappywrapper.so	1eed286de789be3e
+8	2891	7611177563792495	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c17f268009b9e110
+56	2707	7611177561837259	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c6542123c717ae86
+70	2800	7611177562822110	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4d7f09b84ddf0f33
+30	3092	7611177565721746	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	21abccae91e4196f
+106	2918	7611177563981911	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	768284621a50d4d
+42	3390	7611177568642246	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2e59d17c0c57d8dd
+3566	3954	7611177573166751	C:/Users/Deadb/Downloads/AR_SpatialAudio/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3q3y2d65/obj/arm64-v8a/libgame.so	dca044cc366a3f3d
+73	358	7611199629728879	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2925a5d738621553
+359	963	7611199634372044	C:/Users/Deadb/Downloads/AR_SpatialAudio/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3q3y2d65/obj/arm64-v8a/libswappywrapper.so	1eed286de789be3e
+27	1609	7611199642364997	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c17f268009b9e110
+49	1651	7611199642757191	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c6542123c717ae86
+38	1665	7611199642957660	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4d7f09b84ddf0f33
+11	1786	7611199644224514	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	21abccae91e4196f
+59	1868	7611199645076673	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	768284621a50d4d
+4	2020	7611199646579366	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2e59d17c0c57d8dd
+19	2161	7611199648011039	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f53e78f80ac19eed
+2162	2320	7611199649164390	C:/Users/Deadb/Downloads/AR_SpatialAudio/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3q3y2d65/obj/arm64-v8a/libgame.so	dca044cc366a3f3d
